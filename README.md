@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-I am an Senior Android Developer:
+I am a Senior Android Developer:
 
  - :man_technologist: Java and Kotlin Android development.
 
